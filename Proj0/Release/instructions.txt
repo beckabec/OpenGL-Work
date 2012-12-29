@@ -1,0 +1,34 @@
+========================================================================
+						Proj0 Instructions
+========================================================================
+
+This file contains a summary of what you will find in each of the files that
+make up your Proj0.
+
+Instructions on how to navigate:
+	x : exits the window
+	- : minimizes the window
+	expand square : expands the window
+	drag corners : resize window
+
+/////////////////////////////////////////////////////////////////////////////
+Changes implemented:
+	-Changed the color of the square from white to aqua
+	-Reset color to aqua before calling glFlush(); (no longer changes
+		to last color called, square is always aqua)
+	-Changed window name to say "Project 1 - basics"
+
+/////////////////////////////////////////////////////////////////////////////
+glut.h
+    This header file is included in basic.c in order to use what's available
+	in the glut32 library.
+
+basic.c
+	This program opens a black colored window with a aqua colored square 
+	in the middle and a line that is colored red to blue. 
+
+glut32.dll
+    glut32 dll file include to support gl commands 
+
+glut32.lib
+	glut32 library file include to support gl commands 

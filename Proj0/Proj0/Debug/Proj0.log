@@ -1,0 +1,11 @@
+﻿Build started 8/30/2011 12:34:29 PM.
+Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj0\Proj0\Proj0.vcxproj" on node 2 (ClCompile target(s)).
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt basics.c
+  basics.c
+c:\users\rebecca bever\documents\visual studio 2010\projects\proj0\proj0\basics.c(104): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+Done Building Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj0\Proj0\Proj0.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01
