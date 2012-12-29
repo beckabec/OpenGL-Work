@@ -1,0 +1,33 @@
+﻿Build started 12/5/2011 4:09:52 PM.
+Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\RayTrace\RayTrace\RayTrace.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\RayTrace.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt starter.cpp
+  starter.cpp
+c:\users\rebecca bever\documents\visual studio 2010\projects\raytrace\raytrace\scene.h(407): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+c:\users\rebecca bever\documents\visual studio 2010\projects\raytrace\raytrace\scene.h(420): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+c:\users\rebecca bever\documents\visual studio 2010\projects\raytrace\raytrace\scene.h(456): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+c:\users\rebecca bever\documents\visual studio 2010\projects\raytrace\raytrace\raytrace.h(431): warning C4018: '<' : signed/unsigned mismatch
+c:\users\rebecca bever\documents\visual studio 2010\projects\raytrace\raytrace\raytrace.h(490): warning C4018: '<' : signed/unsigned mismatch
+c:\users\rebecca bever\documents\visual studio 2010\projects\raytrace\raytrace\raytrace.h(481): warning C4715: 'RayTrace::intersection' : not all control paths return a value
+c:\users\rebecca bever\documents\visual studio 2010\projects\raytrace\raytrace\raytrace.h(616): warning C4715: 'RayTrace::interSphere' : not all control paths return a value
+Link:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\RayTrace\Debug\RayTrace.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RayTrace.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\RayTrace\Debug\RayTrace.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\RayTrace\Debug\RayTrace.lib" /MACHINE:X86 Debug\3ds.obj
+  Debug\starter.obj
+  Debug\xmlParser.obj
+  LINK : C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\RayTrace\Debug\RayTrace.exe not found or not built by the last incremental link; performing full link
+  RayTrace.vcxproj -> C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\RayTrace\Debug\RayTrace.exe
+Manifest:
+  c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\RayTrace\Debug\RayTrace.exe;#1" /manifest Debug\RayTrace.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "Debug\RayTrace.unsuccessfulbuild".
+  Touching "Debug\RayTrace.lastbuildstate".
+Done Building Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\RayTrace\RayTrace\RayTrace.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.12
