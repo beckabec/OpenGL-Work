@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VectorLib_ObjLoader_Demo">
+</Property><Property Name="Solution File" Value="C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\VectorLib_ObjLoader_Demo.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\VectorLib_ObjLoader_Demo.suo">
+</Property><Property Name="Date" Value="Wednesday, September 21, 2011">
+</Property><Property Name="Time" Value="23:29 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="VectorLib_ObjLoader_Demo.sln" Description="Error creating backup file: C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\VectorLib_ObjLoader_Demo.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="VectorLib_ObjLoader_Demo.suo" Description="Error creating backup file: C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\VectorLib_ObjLoader_Demo.suo.old">
+</Event><Event ErrorLevel="0" Project="VectorLib_ObjLoader_Demo" Source="VectorLib_ObjLoader_Demo.vcproj" Description="Converting project file 'C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\VectorLib_ObjLoader_Demo.vcproj'.">
+</Event><Event ErrorLevel="1" Project="VectorLib_ObjLoader_Demo" Source="VectorLib_ObjLoader_Demo.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="VectorLib_ObjLoader_Demo" Source="VectorLib_ObjLoader_Demo.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="VectorLib_ObjLoader_Demo" Source="VectorLib_ObjLoader_Demo.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="VectorLib_ObjLoader_Demo" Source="VectorLib_ObjLoader_Demo.vcproj" Description="Done converting to new project file 'C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\VectorLib_ObjLoader_Demo.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="VectorLib_ObjLoader_Demo" Source="VectorLib_ObjLoader_Demo.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VectorLib_ObjLoader_Demo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VectorLib_ObjLoader_Demo.sln" Description="Converted">
+</Event></UpgradeLog>

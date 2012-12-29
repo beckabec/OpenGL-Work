@@ -1,0 +1,57 @@
+========================================================================
+			Proj2 Instructions
+========================================================================
+
+This file contains a summary of what you will find in each of the files that
+make up your Proj2.
+
+Instructions on how to navigate:
+	left mouse button: rotates around the scene using the specified x-angle and y-angle
+	right mouse button: scales into and out of the scene using the specified gobal scale value
+	middle mouse button: selects the menu option & is used to select a menu option
+		NOTE: Must hold down middle button when selecting menu and then selecting option. If 
+		middle button is released it activates the mouse click and will rotate the whole scene
+	
+	Navigation 1: 
+		left arrow key: turns the camera to the left (reminder scene rotates right, as camera
+		turns left)
+		right arrow key: turns the camera to the right (reminder scene rotates left, as camera
+		turns right)
+		up arrow key: moves the camera up in the positive y axis direction
+		down arrow key: moves the camera down in the negative y axis direction
+		'a' key: scales in towards the center of scene
+		's' key: scales out away from the center of scene
+	Navigation 2:
+		left arrow key: turns the camera to the left (reminder scene rotates right, as camera
+		turns left)
+		right arrow key: turns the camera to the right (reminder scene rotates left, as camera
+		turns right)
+		up arrow key: moves the camera forward
+		down arrow key: moves the camera backward
+		'a' key: moves the camera up in the positive y axis direction
+		's' key: moves the camera down in the negative y axis direction
+
+/////////////////////////////////////////////////////////////////////////////
+Models folder:
+	contains all the model objects required for scene
+
+Loaders.h
+	object loader header file
+Loaders.cpp
+	object loader cpp file
+
+main.cpp
+	3D scene which has the options to view face & vector normals, texturing,
+	filtering, and the ability to change between 2 different navigations
+
+mesh.h
+	contains the mesh class and data structure
+
+grass.bmp,marble.bmp,marble.bmp
+	texture bmp files
+	
+freeglut.dll
+    	freeglut dll file include to support gl commands 
+
+freeglut.lib
+	freeglut library file include to support gl commands 
