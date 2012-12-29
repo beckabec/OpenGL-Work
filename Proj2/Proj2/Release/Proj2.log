@@ -1,0 +1,19 @@
+﻿Build started 9/21/2011 11:33:43 PM.
+Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\Proj2.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Touching "Release\Proj2.unsuccessfulbuild".
+ClCompile:
+  All outputs are up-to-date.
+Link:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Release\Proj2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Proj2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Release\Proj2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Release\Proj2.lib" /MACHINE:X86 Release\bitmap.obj
+bitmap.obj : error LNK2001: unresolved external symbol __imp__glGetIntegerv@8
+bitmap.obj : error LNK2001: unresolved external symbol __imp__glPixelStorei@8
+bitmap.obj : error LNK2001: unresolved external symbol __imp__glFinish@0
+bitmap.obj : error LNK2001: unresolved external symbol __imp__glReadPixels@28
+MSVCRT.lib(crtexe.obj) : error LNK2001: unresolved external symbol _main
+C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Release\Proj2.exe : fatal error LNK1120: 5 unresolved externals
+Done Building Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\Proj2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.95

@@ -1,0 +1,119 @@
+﻿Build started 10/10/2011 12:55:21 PM.
+Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\VectorLib_ObjLoader_Demo.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Release\VectorLib_ObjLoader_Demo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\ilmbase\inc\half /I.\ilmbase\inc\ilmthread /I.\ilmbase\inc\iex /I.\ilmbase\inc\imath /I.\ilmbase\src\ /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+  main.cpp
+c:\users\rebecca bever\documents\visual studio 2010\projects\proj2\proj2\meshdatastructure_vectorlibrary_filereader\meshdatastructure_vectorlibrary_filereader\stb_image.c(559): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\rebecca bever\documents\visual studio 2010\projects\proj2\proj2\meshdatastructure_vectorlibrary_filereader\meshdatastructure_vectorlibrary_filereader\stb_image.c(626): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\rebecca bever\documents\visual studio 2010\projects\proj2\proj2\meshdatastructure_vectorlibrary_filereader\meshdatastructure_vectorlibrary_filereader\stb_image.c(664): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\rebecca bever\documents\visual studio 2010\projects\proj2\proj2\meshdatastructure_vectorlibrary_filereader\meshdatastructure_vectorlibrary_filereader\stb_image.c(4566): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+main.cpp(33): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+main.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+main.cpp(183): warning C4018: '<' : signed/unsigned mismatch
+main.cpp(213): warning C4101: 'normalize' : unreferenced local variable
+main.cpp(385): warning C4018: '<' : signed/unsigned mismatch
+main.cpp(399): warning C4018: '<' : signed/unsigned mismatch
+main.cpp(849): warning C4018: '<' : signed/unsigned mismatch
+main.cpp(863): warning C4018: '<' : signed/unsigned mismatch
+main.cpp(1014): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+main.cpp(893): warning C4101: 'normalize' : unreferenced local variable
+main.cpp(1336): warning C4018: '<' : signed/unsigned mismatch
+main.cpp(1345): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1345): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1345): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1348): warning C4018: '<' : signed/unsigned mismatch
+main.cpp(1418): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1418): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1418): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1423): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1426): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1426): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1426): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1431): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1431): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1431): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1432): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1439): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1439): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1439): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1440): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1440): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1450): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1452): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1452): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1452): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1457): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1458): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1459): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1459): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1459): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1464): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1466): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1466): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1466): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1475): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1475): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1475): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1480): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1481): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1482): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1482): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1482): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1489): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1489): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1489): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(1846): warning C4305: '+=' : truncation from 'double' to 'float'
+main.cpp(1847): warning C4305: '=' : truncation from 'double' to 'float'
+main.cpp(1861): warning C4305: '-=' : truncation from 'double' to 'float'
+main.cpp(1862): warning C4305: '=' : truncation from 'double' to 'float'
+main.cpp(2000): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(2031): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2031): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2031): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2034): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2034): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2034): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2041): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2042): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2042): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2042): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2053): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2054): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2054): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2054): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2058): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2059): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2059): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2059): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2063): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2064): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2064): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2064): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2069): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2071): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+main.cpp(2134): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(2135): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(2142): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(2144): warning C4305: '=' : truncation from 'double' to 'float'
+Link:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\Release\VectorLib_ObjLoader_Demo.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib freeglut.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\VectorLib_ObjLoader_Demo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\Release\VectorLib_ObjLoader_Demo.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\Release\VectorLib_ObjLoader_Demo.lib" /MACHINE:X86 Release\Loaders.obj
+  Release\main.obj
+  Generating code
+  Finished generating code
+  VectorLib_ObjLoader_Demo.vcxproj -> C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\Release\VectorLib_ObjLoader_Demo.exe
+Manifest:
+  c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\Release\VectorLib_ObjLoader_Demo.exe;#1" /manifest Release\VectorLib_ObjLoader_Demo.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "Release\VectorLib_ObjLoader_Demo.unsuccessfulbuild".
+  Touching "Release\VectorLib_ObjLoader_Demo.lastbuildstate".
+Done Building Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj2\Proj2\MeshDataStructure_VectorLibrary_FileReader\MeshDataStructure_VectorLibrary_FileReader\VectorLib_ObjLoader_Demo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.71
