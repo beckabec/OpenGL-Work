@@ -1,0 +1,15 @@
+﻿Build started 9/19/2011 10:52:18 AM.
+Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj1\Proj1\Proj1.vcxproj" on node 2 (build target(s)).
+PrepareForBuild:
+  Creating directory "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj1\Debug\".
+InitializeBuildStatus:
+  Creating "Debug\Proj1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Proj1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt Proj1.c
+  Proj1.c
+c:\users\rebecca bever\documents\visual studio 2010\projects\proj1\proj1\proj1.c(862): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+Done Building Project "C:\Users\Rebecca Bever\Documents\Visual Studio 2010\Projects\Proj1\Proj1\Proj1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.67
